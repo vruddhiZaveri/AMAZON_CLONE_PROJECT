@@ -36,3 +36,6 @@ This project is a frontend clone of the Amazon e-commerce website, built to repl
 * Add more interactive elements.
 * Implement state management if applicable.
 * Improve accessibility.
+
+## Author 🏆
+* vruddhiZaveri ([https://github.com/vruddhiZaveri])
