@@ -39,4 +39,4 @@ This project is a frontend clone of the Amazon e-commerce website, built to repl
 
 ## Author 🏆
 
-* [vruddhiZaveri](https://github.com/vruddhiZaveri)
+* [VruddhiZaveri](https://github.com/vruddhiZaveri)
