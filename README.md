@@ -4,13 +4,10 @@ This project is a frontend clone of the Amazon e-commerce website, built to repl
 # Features✨
 
 * **Responsive Design 🎨:** Adapts seamlessly to various screen sizes, ensuring a consistent user experience across desktops, tablets, and mobile devices.
- <br>
 * **Product Display ✨:** Simulates the display of products with images, titles, prices, and ratings.
-* <br>
 * **Navigation Bar 🍻:** Includes a functional navigation bar with search functionality, user account access, and cart information.
-<br>
 * **Homepage Layout 🏠:** Replicates the main layout of the Amazon homepage, including featured sections and product categories.
-<br>
+
 
 
 ## Technologies Used👩🏻‍💻
