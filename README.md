@@ -15,7 +15,7 @@ This project is a frontend clone of the Amazon e-commerce website, built to repl
 * **HTML:** For structuring the web page content.
 * **CSS:** For styling and layout, including responsive design.
 
-* ## Usage🧠
+ ## Usage🧠
 
 * Explore the simulated product listings.
 * Use the navigation bar to browse categories.
